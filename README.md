@@ -43,7 +43,23 @@ Conclusion: This study employed a deep learning network to identify body packs i
 
 # Proposed model (changed neck+normal bonding box )
 
-![](https://github.com/SAMashiyane/Body_packer_project/blob/main/img/oriented_bp.gif)
+![](https://github.com/SAMashiyane/Body_Packs_Detection/blob/main/img/oriented_bp.gif)
+https://github.com/SAMashiyane/Body_Packs_Detection/blob/main/img/oriented_bp.gif
 
 # Proposed model with oriented bonding box
 ----
+
+----
+## 📝 Cite this article: <a name="citing"></a>
+```
+Hosseini SM, Mohtarami SA, Shadnia S, Rahimi M, Erfan Talab Evini P, Mostafazadeh B, Memarian A, Heidarli E. Detection of Body Packs in Abdominal CT scans Through Artificial Intelligence; Developing a Machine Learning-based Model. Arch Acad Emerg Med [Internet]. 2024 Dec. 26 [cited 2025 Jan. 14];13(1):e23.  https://journals.sbmu.ac.ir/aaem/index.php/AAEM/article/view/2479
+```
+----
+
+## 🛡️ License <a name="license"></a>
+Project is distributed under [MIT License](https://github.com/SAMashiyane/Body_Packs_Detection/edit/main/LICENSE)
+
+<p align="right">
+ <a href="#top"><b>🔝 Return </b></a>
+</p>
+
