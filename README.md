@@ -44,10 +44,8 @@ Conclusion: This study employed a deep learning network to identify body packs i
 # Proposed model (changed neck+normal bonding box )
 
 ![](https://github.com/SAMashiyane/Body_Packs_Detection/blob/main/img/oriented_bp.gif)
-https://github.com/SAMashiyane/Body_Packs_Detection/blob/main/img/oriented_bp.gif
 
 # Proposed model with oriented bonding box
-----
 
 ----
 ## 📝 Cite this article: <a name="citing"></a>
