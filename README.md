@@ -52,7 +52,7 @@ https://github.com/SAMashiyane/Body_Packs_Detection/blob/main/img/oriented_bp.gi
 ----
 ## 📝 Cite this article: <a name="citing"></a>
 ```
-Hosseini SM, Mohtarami SA, Shadnia S, Rahimi M, Erfan Talab Evini P, Mostafazadeh B,et al.
+Hosseini SM, Mohtarami SA, Shadnia S, Rahimi M, Erfan Talab Evini P, Mostafazadeh B. et al.
 Detection of Body Packs in Abdominal CT scans Through Artificial Intelligence; Developing a Machine Learning-based Model.
 Arch Acad Emerg Med [Internet]. 2024 Dec. 26 [cited 2025 Jan. 14];13(1):e23.
 Available from: https://journals.sbmu.ac.ir/aaem/index.php/AAEM/article/view/2479
