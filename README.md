@@ -39,7 +39,7 @@ Conclusion: This study employed a deep learning network to identify body packs i
 
 ## 💫 Demo <a name="demo"></a>
 
-![](https://github.com/SAMashiyane/Body_packer_project/blob/main/img/bp.gif)
+![](https://github.com/SAMashiyane/Body_Packs_Detection/blob/main/img/bp.gif)
 
 # Proposed model (changed neck+normal bonding box )
 
